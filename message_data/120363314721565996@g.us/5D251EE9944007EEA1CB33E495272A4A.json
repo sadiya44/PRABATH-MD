@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "5D251EE9944007EEA1CB33E495272A4A",
+      "participant": "94770361369@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721216772,
+    "pushName": "👉 🥺❤‍🩹🙂 👈",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=DPfSn7eSis0",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "BA310A7FF169C6AECCC6A199E10EAB01",
+          "participant": "94760789475@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "HSiX17UxjL/M5RYJCXv/+QDckaebUQbOBJkpNKBUnhs=",
+                  "fileLength": "304235",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "2UCE2hD+e9Pr2vHd3mQAxDuxUlcPleqpsXW8Aj5de3k=",
+                  "fileEncSha256": "ShAYnwnAD/plguba5nW7bKe8Md1EAbfelQU0infRaiM=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721216765",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhMRMiQTNRgVJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHxEAAgEDBQEAAAAAAAAAAAAAAAECETNBAwQSITEy/9oADAMBAAIRAxEAPwDmrbrNOrTTTHI7ekASNvbz8U+ZIbdDLdB2Z3wCe1Tjb4/tUnWBZFuUlAl2wudmHO9ReXMl2oTWQVORg75qTg8s3ateb6Iglh6YnQvIsQx3Hn2GPzWvqJby20ivqkmU9Qsckg+SDTYYmSJjLdNIjLk6jt9xzTDLbXNvpZY2IXAOoZWgpQbVPMk4TVTzr+vjxq4qlxtOMbbjiiitSDu7hsuBiH5FZonb6j+6KKlP5BO4f//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Chatu Katha (චාටු කතා) - ...\n├ *👤 `Author:`* Desawana Music\n├ *👁️‍🗨️ `Views:`* 284696\n├ *🕘 `Duration:`* 3:45\n├ *📌 `Ago:`* 12 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=DPfSn7eSis0 \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760789475@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "5D251EE9944007EEA1CB33E495272A4A",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94770361369@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=DPfSn7eSis0",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "BA310A7FF169C6AECCC6A199E10EAB01",
+        "participant": "94760789475@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "HSiX17UxjL/M5RYJCXv/+QDckaebUQbOBJkpNKBUnhs=",
+                "fileLength": "304235",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "2UCE2hD+e9Pr2vHd3mQAxDuxUlcPleqpsXW8Aj5de3k=",
+                "fileEncSha256": "ShAYnwnAD/plguba5nW7bKe8Md1EAbfelQU0infRaiM=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721216765",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhMRMiQTNRgVJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHxEAAgEDBQEAAAAAAAAAAAAAAAECETNBAwQSITEy/9oADAMBAAIRAxEAPwDmrbrNOrTTTHI7ekASNvbz8U+ZIbdDLdB2Z3wCe1Tjb4/tUnWBZFuUlAl2wudmHO9ReXMl2oTWQVORg75qTg8s3ateb6Iglh6YnQvIsQx3Hn2GPzWvqJby20ivqkmU9Qsckg+SDTYYmSJjLdNIjLk6jt9xzTDLbXNvpZY2IXAOoZWgpQbVPMk4TVTzr+vjxq4qlxtOMbbjiiitSDu7hsuBiH5FZonb6j+6KKlP5BO4f//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Chatu Katha (චාටු කතා) - ...\n├ *👤 `Author:`* Desawana Music\n├ *👁️‍🗨️ `Views:`* 284696\n├ *🕘 `Duration:`* 3:45\n├ *📌 `Ago:`* 12 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=DPfSn7eSis0 \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760789475@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760789475@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=DPfSn7eSis0",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "HSiX17UxjL/M5RYJCXv/+QDckaebUQbOBJkpNKBUnhs=",
+            "fileLength": "304235",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "2UCE2hD+e9Pr2vHd3mQAxDuxUlcPleqpsXW8Aj5de3k=",
+            "fileEncSha256": "ShAYnwnAD/plguba5nW7bKe8Md1EAbfelQU0infRaiM=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-57c286f9-6e3a-4b21-be71-12d4032c554c?ccb=9-4&oh=01_Q5AaIAlns9HUp0ZN_sCML6svTyw-59j06OLZvVOgHCHzReya&oe=66BF05A3&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721216765",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EACcQAAIBAwMDAwUAAAAAAAAAAAECAwAEERIhMRMiQTNRgVJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHxEAAgEDBQEAAAAAAAAAAAAAAAECETNBAwQSITEy/9oADAMBAAIRAxEAPwDmrbrNOrTTTHI7ekASNvbz8U+ZIbdDLdB2Z3wCe1Tjb4/tUnWBZFuUlAl2wudmHO9ReXMl2oTWQVORg75qTg8s3ateb6Iglh6YnQvIsQx3Hn2GPzWvqJby20ivqkmU9Qsckg+SDTYYmSJjLdNIjLk6jt9xzTDLbXNvpZY2IXAOoZWgpQbVPMk4TVTzr+vjxq4qlxtOMbbjiiitSDu7hsuBiH5FZonb6j+6KKlP5BO4f//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Chatu Katha (චාටු කතා) - ...\n├ *👤 `Author:`* Desawana Music\n├ *👁️‍🗨️ `Views:`* 284696\n├ *🕘 `Duration:`* 3:45\n├ *📌 `Ago:`* 12 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=DPfSn7eSis0 \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=DPfSn7eSis0\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

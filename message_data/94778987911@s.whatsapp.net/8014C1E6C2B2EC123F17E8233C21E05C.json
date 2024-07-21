@@ -1,0 +1,63 @@
+[
+  {
+    "key": {
+      "remoteJid": "94778987911@s.whatsapp.net",
+      "fromMe": false,
+      "id": "8014C1E6C2B2EC123F17E8233C21E05C"
+    },
+    "messageTimestamp": 1721221828,
+    "pushName": "アデーシュ",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": ".video",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 86400,
+          "ephemeralSettingTimestamp": "1718972813",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "UNKNOWN"
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "アデーシュ",
+    "id": "8014C1E6C2B2EC123F17E8233C21E05C",
+    "chat": "94778987911@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94778987911@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": ".video",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 86400,
+        "ephemeralSettingTimestamp": "1718972813",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "UNKNOWN"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": ".video",
+    "quoted": null
+  }
+]

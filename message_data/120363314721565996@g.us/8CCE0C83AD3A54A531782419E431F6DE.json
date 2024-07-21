@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "8CCE0C83AD3A54A531782419E431F6DE",
+      "participant": "94768343022@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221061,
+    "pushName": "@ \"N_I_M_A______",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=t2thnIDVpts",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "D34648E637480824162D49270DC062BE",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "AmItX1JBgp8Jjn4ZKgp/W75OlW3qEW8zSufVhPpJEGs=",
+                  "fileLength": "143553",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "+QVzl/THKzHw4bvPUTf3lo+eH6sVgMj5EL1qK7h77Kk=",
+                  "fileEncSha256": "7kwIDFRPNB1icEAKumIidE44VFTOWF3C94NwMVujnRk=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721221057",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAQQG/8QAJxAAAgEEAAUDBQAAAAAAAAAAAQIDAAQRIRITIjFhFVFxBTJBkeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EAB8RAAECBgMAAAAAAAAAAAAAAAABAgMEERIxMxMhMv/aAAwDAQACEQMRAD8AmfTLGzS6i9SPTICQoPYefNXhOgijW1UFCNOBpqiW16xmROWmQ+Ufg4iBn7fiqLyyKjtxnWxyz0nxj8Uu6hVwK5eirHfExhQuzpiR2rM11BAqySSgAnHvXM+oXSh1Lsysff41TrmSV4+AyM0eiVO61XUycw4CxK2kxSRJo46q2ombB2f3RRSn4LpfYLQky4Ox/afcdjRRQ/ygSu1x/9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Dilo - Hada Gassuna (Offi...\n├ *👤 `Author:`* Dilo\n├ *👁️‍🗨️ `Views:`* 2181307\n├ *🕘 `Duration:`* 3:13\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=t2thnIDVpts \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "8CCE0C83AD3A54A531782419E431F6DE",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94768343022@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=t2thnIDVpts",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "D34648E637480824162D49270DC062BE",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "AmItX1JBgp8Jjn4ZKgp/W75OlW3qEW8zSufVhPpJEGs=",
+                "fileLength": "143553",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "+QVzl/THKzHw4bvPUTf3lo+eH6sVgMj5EL1qK7h77Kk=",
+                "fileEncSha256": "7kwIDFRPNB1icEAKumIidE44VFTOWF3C94NwMVujnRk=",
+                "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721221057",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAQQG/8QAJxAAAgEEAAUDBQAAAAAAAAAAAQIDAAQRIRITIjFhFVFxBTJBkeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EAB8RAAECBgMAAAAAAAAAAAAAAAABAgMEERIxMxMhMv/aAAwDAQACEQMRAD8AmfTLGzS6i9SPTICQoPYefNXhOgijW1UFCNOBpqiW16xmROWmQ+Ufg4iBn7fiqLyyKjtxnWxyz0nxj8Uu6hVwK5eirHfExhQuzpiR2rM11BAqySSgAnHvXM+oXSh1Lsysff41TrmSV4+AyM0eiVO61XUycw4CxK2kxSRJo46q2ombB2f3RRSn4LpfYLQky4Ox/afcdjRRQ/ygSu1x/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Dilo - Hada Gassuna (Offi...\n├ *👤 `Author:`* Dilo\n├ *👁️‍🗨️ `Views:`* 2181307\n├ *🕘 `Duration:`* 3:13\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=t2thnIDVpts \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=t2thnIDVpts",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "AmItX1JBgp8Jjn4ZKgp/W75OlW3qEW8zSufVhPpJEGs=",
+            "fileLength": "143553",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "+QVzl/THKzHw4bvPUTf3lo+eH6sVgMj5EL1qK7h77Kk=",
+            "fileEncSha256": "7kwIDFRPNB1icEAKumIidE44VFTOWF3C94NwMVujnRk=",
+            "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-1fb2c2d2-88b1-4955-afd0-90f4bc23b6e1?ccb=9-4&oh=01_Q5AaIKxXMt6Aguh2p6lUs5j2QHDWTpTPoe3aNFCs9gJ5yUZQ&oe=66BF23C9&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721221057",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMFAQQG/8QAJxAAAgEEAAUDBQAAAAAAAAAAAQIDAAQRIRITIjFhFVFxBTJBkeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwQBAv/EAB8RAAECBgMAAAAAAAAAAAAAAAABAgMEERIxMxMhMv/aAAwDAQACEQMRAD8AmfTLGzS6i9SPTICQoPYefNXhOgijW1UFCNOBpqiW16xmROWmQ+Ufg4iBn7fiqLyyKjtxnWxyz0nxj8Uu6hVwK5eirHfExhQuzpiR2rM11BAqySSgAnHvXM+oXSh1Lsysff41TrmSV4+AyM0eiVO61XUycw4CxK2kxSRJo46q2ombB2f3RRSn4LpfYLQky4Ox/afcdjRRQ/ygSu1x/9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Dilo - Hada Gassuna (Offi...\n├ *👤 `Author:`* Dilo\n├ *👁️‍🗨️ `Views:`* 2181307\n├ *🕘 `Duration:`* 3:13\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=t2thnIDVpts \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=t2thnIDVpts\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

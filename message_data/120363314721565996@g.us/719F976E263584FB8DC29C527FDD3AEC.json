@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "719F976E263584FB8DC29C527FDD3AEC",
+      "participant": "94768343022@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221105,
+    "pushName": "@ \"N_I_M_A______",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=86O7LvK4_DQ",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "FEF9E949429EB729043C79E42BDCF188",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "s2pBYComuojumofYU1F5Qtky6WFhotNr2DUKvf74al4=",
+                  "fileLength": "84610",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "7MSI6SmCFSdpKPCX9mKw6MlxFSpdxtc+l2lf+dUkyZA=",
+                  "fileEncSha256": "AcT6DlDyLO6e+aUTURuHsy+yeFXaMgt4EMWpQvI24DI=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721221097",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAiEAACAgIBBAMBAAAAAAAAAAABAgADBBESEyExMkFRYXL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDg1MEtRiNgEHUm7XOSdWcSdgd9CUrUvYqDyxAg9+VjHpC+wBew4udSwZj22UWBmV9foIjXNzudt72xO4hysm7atda/LsQXJ3GsUpYyHypIMUPid8un+xLZir1fUeT8fsIRAuIi9b1Hj6kLDuxifuEIo//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Thurumpuva\n├ *👤 `Author:`* Rap Sheyiya - Topic\n├ *👁️‍🗨️ `Views:`* 109631\n├ *🕘 `Duration:`* 3:35\n├ *📌 `Ago:`* undefined\n├ *🔗 `Url:`* https://youtube.com/watch?v=86O7LvK4_DQ \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "719F976E263584FB8DC29C527FDD3AEC",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94768343022@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=86O7LvK4_DQ",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "FEF9E949429EB729043C79E42BDCF188",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "s2pBYComuojumofYU1F5Qtky6WFhotNr2DUKvf74al4=",
+                "fileLength": "84610",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "7MSI6SmCFSdpKPCX9mKw6MlxFSpdxtc+l2lf+dUkyZA=",
+                "fileEncSha256": "AcT6DlDyLO6e+aUTURuHsy+yeFXaMgt4EMWpQvI24DI=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721221097",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAiEAACAgIBBAMBAAAAAAAAAAABAgADBBESEyExMkFRYXL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDg1MEtRiNgEHUm7XOSdWcSdgd9CUrUvYqDyxAg9+VjHpC+wBew4udSwZj22UWBmV9foIjXNzudt72xO4hysm7atda/LsQXJ3GsUpYyHypIMUPid8un+xLZir1fUeT8fsIRAuIi9b1Hj6kLDuxifuEIo//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Thurumpuva\n├ *👤 `Author:`* Rap Sheyiya - Topic\n├ *👁️‍🗨️ `Views:`* 109631\n├ *🕘 `Duration:`* 3:35\n├ *📌 `Ago:`* undefined\n├ *🔗 `Url:`* https://youtube.com/watch?v=86O7LvK4_DQ \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=86O7LvK4_DQ",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "s2pBYComuojumofYU1F5Qtky6WFhotNr2DUKvf74al4=",
+            "fileLength": "84610",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "7MSI6SmCFSdpKPCX9mKw6MlxFSpdxtc+l2lf+dUkyZA=",
+            "fileEncSha256": "AcT6DlDyLO6e+aUTURuHsy+yeFXaMgt4EMWpQvI24DI=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-09272fc1-92ef-48a2-b974-b665be3b7fa6?ccb=9-4&oh=01_Q5AaIB6RlrDR76xMDxZc-6Jfvmwho05y8bVM2Vt2S4Qg8fms&oe=66BF17FB&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721221097",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAiEAACAgIBBAMBAAAAAAAAAAABAgADBBESEyExMkFRYXL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDg1MEtRiNgEHUm7XOSdWcSdgd9CUrUvYqDyxAg9+VjHpC+wBew4udSwZj22UWBmV9foIjXNzudt72xO4hysm7atda/LsQXJ3GsUpYyHypIMUPid8un+xLZir1fUeT8fsIRAuIi9b1Hj6kLDuxifuEIo//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Thurumpuva\n├ *👤 `Author:`* Rap Sheyiya - Topic\n├ *👁️‍🗨️ `Views:`* 109631\n├ *🕘 `Duration:`* 3:35\n├ *📌 `Ago:`* undefined\n├ *🔗 `Url:`* https://youtube.com/watch?v=86O7LvK4_DQ \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=86O7LvK4_DQ\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

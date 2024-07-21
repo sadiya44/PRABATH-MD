@@ -1,0 +1,44 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "7ECA3002D48E0FD2B4651F1EA011B414",
+      "participant": "94760789475@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721224695,
+    "pushName": "Crazy",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363314721565996@g.us",
+          "fromMe": false,
+          "id": "C179FEBBC8015DF7F39D25C0E5E408A4",
+          "participant": "94760789475@s.whatsapp.net"
+        },
+        "text": "🎧",
+        "senderTimestampMs": "1721224695409"
+      }
+    },
+    "id": "7ECA3002D48E0FD2B4651F1EA011B414",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760789475@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363314721565996@g.us",
+        "fromMe": false,
+        "id": "C179FEBBC8015DF7F39D25C0E5E408A4",
+        "participant": "94760789475@s.whatsapp.net"
+      },
+      "text": "🎧",
+      "senderTimestampMs": "1721224695409"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

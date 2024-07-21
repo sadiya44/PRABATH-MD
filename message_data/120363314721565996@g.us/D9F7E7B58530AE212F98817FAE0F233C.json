@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "D9F7E7B58530AE212F98817FAE0F233C",
+      "participant": "94770361369@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721216332,
+    "pushName": "👉 🥺❤‍🩹🙂 👈",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song චාරිකාවක්",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi96+iAAxAAGiAUnP/Svl5Wq2AlW5rvZtiWzM+8XqyyfzNCN7aEvQgLXiIhBXM/EK289kIBQQb9pQ35AkLDGKif5Fcs2JdIOcNPdOV9"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "D9F7E7B58530AE212F98817FAE0F233C",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94770361369@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song චාරිකාවක්",
+    "mentionUser": [],
+    "body": ".song චාරිකාවක්",
+    "quoted": null
+  }
+]

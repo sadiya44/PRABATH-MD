@@ -1,0 +1,120 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "7DD0E3E0A38D319ADE8F59BCAC58F55A",
+      "participant": "94760789475@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721223960,
+    "pushName": "Crazy",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwitg9CXAhABGiBJuBgS6u/+fHTeN9TDgdYsnKVO8hbVViQevJkphtaVYyIhBXJrouOx4Yfqemr4yn78hbWy8ODhFgLNGxpKK6olKw84"
+      },
+      "viewOnceMessage": {
+        "message": {
+          "messageContextInfo": {
+            "deviceListMetadata": {},
+            "deviceListMetadataVersion": 2
+          },
+          "interactiveMessage": {
+            "header": {
+              "title": "",
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-6383e365-393b-4d27-8ba2-a4ebb1899b94?ccb=9-4&oh=01_Q5AaIJTkVxXuMiMn8WbiSQpYC_Sub8xHgLLF47iVqYa16a29&oe=66BF54A1&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "LCnBKn6lYv5bB8menokcSQzbSLNs/2Ij+D252juNgOE=",
+                "fileLength": "139432",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "OvUyh5bALgMaXdtM1awjU7oQZ98qd0DAJaQFl97eAQs=",
+                "fileEncSha256": "4WIWCsq7CS68k5jBi/rPHhJZRxRpUZVw3G23uuVvwtY=",
+                "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-6383e365-393b-4d27-8ba2-a4ebb1899b94?ccb=9-4&oh=01_Q5AaIJTkVxXuMiMn8WbiSQpYC_Sub8xHgLLF47iVqYa16a29&oe=66BF54A1&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721223960",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTMTJBIlEkNEJhkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECAwQRMUEhM1H/2gAMAwEAAhEDEQA/AGfGOFJBGOStwLkYLO8gIbpvj2yabH4njIZ9J5Sdsu422qUu47ua5glWFrhWTIi06TuNhmkYII7iXnm3aORzpOpSSMbHfp7mjS2+xdbS0SdvbJO0i6gsJYP6CUCkim44c7MjJe24y3pUuQT+961ZnUIgLLG+QWLDycAt9utYROS/MthEZJG0ZYBlGOm/5qd8+QuTSxkpv6Ws98VIX/yUo8aD/KKKlqfZJuTm0bM95bh2LAMBgnO1Wu07lX6RAcDx1oopGXlFZ7P/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Hinawata Adare Hithuna - ...\n├ *👤 `Author:`* C Music\n├ *👁️‍🗨️ `Views:`* 2020234\n├ *🕘 `Duration:`* 3:20\n├ *📌 `Ago:`* 4 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=LS4hB8kdqyE \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "7DD0E3E0A38D319ADE8F59BCAC58F55A",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760789475@s.whatsapp.net",
+    "type": "viewOnceMessage",
+    "msg": {
+      "header": {
+        "title": "",
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-6383e365-393b-4d27-8ba2-a4ebb1899b94?ccb=9-4&oh=01_Q5AaIJTkVxXuMiMn8WbiSQpYC_Sub8xHgLLF47iVqYa16a29&oe=66BF54A1&_nc_sid=000000&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "LCnBKn6lYv5bB8menokcSQzbSLNs/2Ij+D252juNgOE=",
+          "fileLength": "139432",
+          "height": 720,
+          "width": 1280,
+          "mediaKey": "OvUyh5bALgMaXdtM1awjU7oQZ98qd0DAJaQFl97eAQs=",
+          "fileEncSha256": "4WIWCsq7CS68k5jBi/rPHhJZRxRpUZVw3G23uuVvwtY=",
+          "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-6383e365-393b-4d27-8ba2-a4ebb1899b94?ccb=9-4&oh=01_Q5AaIJTkVxXuMiMn8WbiSQpYC_Sub8xHgLLF47iVqYa16a29&oe=66BF54A1&_nc_sid=000000",
+          "mediaKeyTimestamp": "1721223960",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTMTJBIlEkNEJhkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECAwQRMUEhM1H/2gAMAwEAAhEDEQA/AGfGOFJBGOStwLkYLO8gIbpvj2yabH4njIZ9J5Sdsu422qUu47ua5glWFrhWTIi06TuNhmkYII7iXnm3aORzpOpSSMbHfp7mjS2+xdbS0SdvbJO0i6gsJYP6CUCkim44c7MjJe24y3pUuQT+961ZnUIgLLG+QWLDycAt9utYROS/MthEZJG0ZYBlGOm/5qd8+QuTSxkpv6Ws98VIX/yUo8aD/KKKlqfZJuTm0bM95bh2LAMBgnO1Wu07lX6RAcDx1oopGXlFZ7P/2Q=="
+        },
+        "hasMediaAttachment": true
+      },
+      "body": {
+        "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Hinawata Adare Hithuna - ...\n├ *👤 `Author:`* C Music\n├ *👁️‍🗨️ `Views:`* 2020234\n├ *🕘 `Duration:`* 3:20\n├ *📌 `Ago:`* 4 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=LS4hB8kdqyE \n└───────────────────\n\n"
+      },
+      "footer": {
+        "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+      },
+      "nativeFlowMessage": {
+        "buttons": [
+          {
+            "name": "cta_url",
+            "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+          },
+          {
+            "name": "quick_reply",
+            "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+          },
+          {
+            "name": "quick_reply",
+            "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+          }
+        ],
+        "messageParamsJson": ""
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

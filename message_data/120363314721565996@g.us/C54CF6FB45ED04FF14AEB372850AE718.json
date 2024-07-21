@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "C54CF6FB45ED04FF14AEB372850AE718",
+      "participant": "94770361369@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721216602,
+    "pushName": "👉 🥺❤‍🩹🙂 👈",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=yc-vNb4zLkc",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "7F6CE8A15BE5767F2049AEBCAC9B3FA4",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "rQ7COiCc9F7jD3BQ56pyY8RSQPJJYNYiloUkFQPxt6k=",
+                  "fileLength": "111362",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "OGcf0ncCmRhCy6UAILerhAIGbWKIwdGLQ4V47GxsuZ4=",
+                  "fileEncSha256": "9wVMXx0QkNaOTDu8FYpVV5/Det420jI68Hcqykhxxzo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721216593",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABBEhBRIxBiIykaEUI0FScf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAMAAQUAAAAAAAAAAAAAAAABAhEDITEyUf/aAAwDAQACEQMRAD8AU8N8OYb2K4+oPl9SgaYEbFJJxizvPgLtSydR8yAMQM/2rnGtcrF1W9v9psjRBz7nNKR8deRXzXAtSgchcjHYkZGM9+2KJV6UVo2njBAHHTGEyEKBruw+d6rlc2DQQl2liON9IYE7/GKfvUWwuZ1lYsYlyiOc5z8VNuZormQOoEWgCoOaRMFy1szTO37H3rKO3X6j70UVgpON0SZDk0qO9FFIuCa+zP/Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Labunothin Waram ( ලැබුනෝ...\n├ *👤 `Author:`* Shanuka Ekanayake\n├ *👁️‍🗨️ `Views:`* 1318655\n├ *🕘 `Duration:`* 3:36\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=yc-vNb4zLkc \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "C54CF6FB45ED04FF14AEB372850AE718",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94770361369@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=yc-vNb4zLkc",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "7F6CE8A15BE5767F2049AEBCAC9B3FA4",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "rQ7COiCc9F7jD3BQ56pyY8RSQPJJYNYiloUkFQPxt6k=",
+                "fileLength": "111362",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "OGcf0ncCmRhCy6UAILerhAIGbWKIwdGLQ4V47GxsuZ4=",
+                "fileEncSha256": "9wVMXx0QkNaOTDu8FYpVV5/Det420jI68Hcqykhxxzo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721216593",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABBEhBRIxBiIykaEUI0FScf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAMAAQUAAAAAAAAAAAAAAAABAhEDITEyUf/aAAwDAQACEQMRAD8AU8N8OYb2K4+oPl9SgaYEbFJJxizvPgLtSydR8yAMQM/2rnGtcrF1W9v9psjRBz7nNKR8deRXzXAtSgchcjHYkZGM9+2KJV6UVo2njBAHHTGEyEKBruw+d6rlc2DQQl2liON9IYE7/GKfvUWwuZ1lYsYlyiOc5z8VNuZormQOoEWgCoOaRMFy1szTO37H3rKO3X6j70UVgpON0SZDk0qO9FFIuCa+zP/Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Labunothin Waram ( ලැබුනෝ...\n├ *👤 `Author:`* Shanuka Ekanayake\n├ *👁️‍🗨️ `Views:`* 1318655\n├ *🕘 `Duration:`* 3:36\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=yc-vNb4zLkc \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=yc-vNb4zLkc",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "rQ7COiCc9F7jD3BQ56pyY8RSQPJJYNYiloUkFQPxt6k=",
+            "fileLength": "111362",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "OGcf0ncCmRhCy6UAILerhAIGbWKIwdGLQ4V47GxsuZ4=",
+            "fileEncSha256": "9wVMXx0QkNaOTDu8FYpVV5/Det420jI68Hcqykhxxzo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-a0ade31d-dd79-465f-a72c-33c63d850a5a?ccb=9-4&oh=01_Q5AaIArDC07kIT8g8en4julx79JxzHbjtopTYnSNdqByXe-m&oe=66BF0B9D&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721216593",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAnEAACAQQBAgUFAAAAAAAAAAABAgMABBEhBRIxBiIykaEUI0FScf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAMAAQUAAAAAAAAAAAAAAAABAhEDITEyUf/aAAwDAQACEQMRAD8AU8N8OYb2K4+oPl9SgaYEbFJJxizvPgLtSydR8yAMQM/2rnGtcrF1W9v9psjRBz7nNKR8deRXzXAtSgchcjHYkZGM9+2KJV6UVo2njBAHHTGEyEKBruw+d6rlc2DQQl2liON9IYE7/GKfvUWwuZ1lYsYlyiOc5z8VNuZormQOoEWgCoOaRMFy1szTO37H3rKO3X6j70UVgpON0SZDk0qO9FFIuCa+zP/Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Labunothin Waram ( ලැබුනෝ...\n├ *👤 `Author:`* Shanuka Ekanayake\n├ *👁️‍🗨️ `Views:`* 1318655\n├ *🕘 `Duration:`* 3:36\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=yc-vNb4zLkc \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=yc-vNb4zLkc\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

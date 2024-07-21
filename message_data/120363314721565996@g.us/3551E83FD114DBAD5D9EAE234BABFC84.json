@@ -1,0 +1,206 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "3551E83FD114DBAD5D9EAE234BABFC84",
+      "participant": "94763180316@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721224692,
+    "pushName": "H",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiw1tRFEAAaIBOToiCFcpWUvKu+IHI/YpkrA+QAZMU7t60REk6tK6PyIiEFPPC9DGgFnVzEHNH4ltAFpJazjXRx/qIICFP5ZOpTYlw="
+      },
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=fMSFJqtG4lo",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "F8B0445ADC6C00C6B5799AC4EB67A347",
+          "participant": "94760789475@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "4qlZV7K2TVFHVd9QgEVI0gAit1AAo09kw7h9yTznbY8=",
+                  "fileLength": "216076",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "HhDtCp3/Ddx6WU6Zf3ssclir8NJQr8r1SAGrKiRMnVI=",
+                  "fileEncSha256": "RoVLq8EZW/vy4fDGfHJPUhkuJeOBHb9yD8FPFLQtNiU=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721223965",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQABf/EACsQAAIBAwIDBwUBAAAAAAAAAAECAwAEESExEkFRBRMiMmGBoRQVI0Oxcf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECESExIkH/2gAMAwEAAhEDEQA/AILtnsbl5UVzJC8ZQDYLuxx05ZpO1Lq5Be+jWV44521Bwrx7D2qWaP7mpupRwsEKgA48I0GnPO/vVctxJJ2Q1rcTDhAVFGAOIY6jpj5qJQpw33hU6dN6GlvJoh31vIVRwCAPKwOMf2qr15ZZYUvdCNUdVIUk9eRIH9qPs68SOy4ZA31AP60IAA5Ej/KS/uI7uyUXFs7RQt3n42AOD5gATnc/FaLufOBilOdnEMsmh42znfPrSwMxbUnY861amz0G+BGR8jxtt1pZJHM2rtoBjX0rVq58CP/Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Achacho VS Gulabi Sadi So...\n├ *👤 `Author:`* DJ EVIN ENTERTAINMENT\n├ *👁️‍🗨️ `Views:`* 2874\n├ *🕘 `Duration:`* 3:41\n├ *📌 `Ago:`* 4 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=fMSFJqtG4lo \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760789475@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "H",
+    "id": "3551E83FD114DBAD5D9EAE234BABFC84",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94763180316@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=fMSFJqtG4lo",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "F8B0445ADC6C00C6B5799AC4EB67A347",
+        "participant": "94760789475@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "4qlZV7K2TVFHVd9QgEVI0gAit1AAo09kw7h9yTznbY8=",
+                "fileLength": "216076",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "HhDtCp3/Ddx6WU6Zf3ssclir8NJQr8r1SAGrKiRMnVI=",
+                "fileEncSha256": "RoVLq8EZW/vy4fDGfHJPUhkuJeOBHb9yD8FPFLQtNiU=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721223965",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQABf/EACsQAAIBAwIDBwUBAAAAAAAAAAECAwAEESExEkFRBRMiMmGBoRQVI0Oxcf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECESExIkH/2gAMAwEAAhEDEQA/AILtnsbl5UVzJC8ZQDYLuxx05ZpO1Lq5Be+jWV44521Bwrx7D2qWaP7mpupRwsEKgA48I0GnPO/vVctxJJ2Q1rcTDhAVFGAOIY6jpj5qJQpw33hU6dN6GlvJoh31vIVRwCAPKwOMf2qr15ZZYUvdCNUdVIUk9eRIH9qPs68SOy4ZA31AP60IAA5Ej/KS/uI7uyUXFs7RQt3n42AOD5gATnc/FaLufOBilOdnEMsmh42znfPrSwMxbUnY861amz0G+BGR8jxtt1pZJHM2rtoBjX0rVq58CP/Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Achacho VS Gulabi Sadi So...\n├ *👤 `Author:`* DJ EVIN ENTERTAINMENT\n├ *👁️‍🗨️ `Views:`* 2874\n├ *🕘 `Duration:`* 3:41\n├ *📌 `Ago:`* 4 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=fMSFJqtG4lo \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760789475@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760789475@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=fMSFJqtG4lo",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "4qlZV7K2TVFHVd9QgEVI0gAit1AAo09kw7h9yTznbY8=",
+            "fileLength": "216076",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "HhDtCp3/Ddx6WU6Zf3ssclir8NJQr8r1SAGrKiRMnVI=",
+            "fileEncSha256": "RoVLq8EZW/vy4fDGfHJPUhkuJeOBHb9yD8FPFLQtNiU=",
+            "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-bc7b107c-9263-47a6-8fe1-86cbea062a55?ccb=9-4&oh=01_Q5AaIAHMvFQ5ONwx2vHYPgDIRG3khs1eXlV2Un7navoJRtvv&oe=66BF5609&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721223965",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQABf/EACsQAAIBAwIDBwUBAAAAAAAAAAECAwAEESExEkFRBRMiMmGBoRQVI0Oxcf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECESExIkH/2gAMAwEAAhEDEQA/AILtnsbl5UVzJC8ZQDYLuxx05ZpO1Lq5Be+jWV44521Bwrx7D2qWaP7mpupRwsEKgA48I0GnPO/vVctxJJ2Q1rcTDhAVFGAOIY6jpj5qJQpw33hU6dN6GlvJoh31vIVRwCAPKwOMf2qr15ZZYUvdCNUdVIUk9eRIH9qPs68SOy4ZA31AP60IAA5Ej/KS/uI7uyUXFs7RQt3n42AOD5gATnc/FaLufOBilOdnEMsmh42znfPrSwMxbUnY861amz0G+BGR8jxtt1pZJHM2rtoBjX0rVq58CP/Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Achacho VS Gulabi Sadi So...\n├ *👤 `Author:`* DJ EVIN ENTERTAINMENT\n├ *👁️‍🗨️ `Views:`* 2874\n├ *🕘 `Duration:`* 3:41\n├ *📌 `Ago:`* 4 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=fMSFJqtG4lo \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=fMSFJqtG4lo\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    },
+    "reactions": [
+      {
+        "key": {
+          "remoteJid": "120363314721565996@g.us",
+          "fromMe": false,
+          "id": "3DC798C2ECC0865092DF34048452F07A",
+          "participant": "94760789475@s.whatsapp.net"
+        },
+        "text": "⬇️",
+        "senderTimestampMs": {
+          "low": -1057192544,
+          "high": 400,
+          "unsigned": false
+        }
+      }
+    ]
+  }
+]

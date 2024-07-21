@@ -1,0 +1,39 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "0991738D15F858AB480F1A83368AC85C",
+      "participant": "94710513877@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721214433,
+    "pushName": "@__සංජුවා තමයි බං [🇱🇰] 🌿🪴",
+    "broadcast": false,
+    "message": {
+      "conversation": ".tiktok https://vm.tiktok.com/ZSYtRfCSD/",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwj7qYnYBRAEGiCyBTdn/z8AjRmdYiKm3ye2ULKz2s4ZwwaQd61WCTbM4iIhBV37oSy21Umlr7iyU7QeEvZt8+Aro4Vi1ulKlTC1ErA+"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "fygJctc1cmgTZw==",
+          "senderTimestamp": "1721085026",
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "0991738D15F858AB480F1A83368AC85C",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94710513877@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".tiktok https://vm.tiktok.com/ZSYtRfCSD/",
+    "mentionUser": [],
+    "body": ".tiktok https://vm.tiktok.com/ZSYtRfCSD/",
+    "quoted": null
+  }
+]

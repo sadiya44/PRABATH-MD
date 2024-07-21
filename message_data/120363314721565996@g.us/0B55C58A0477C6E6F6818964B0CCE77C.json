@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "0B55C58A0477C6E6F6818964B0CCE77C",
+      "participant": "94768343022@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221092,
+    "pushName": "@ \"N_I_M_A______",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song thurumpuva"
+    },
+    "id": "0B55C58A0477C6E6F6818964B0CCE77C",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94768343022@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song thurumpuva",
+    "mentionUser": [],
+    "body": ".song thurumpuva",
+    "quoted": null
+  }
+]

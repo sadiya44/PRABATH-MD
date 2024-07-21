@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "AEC4D984F614B5396EDC65C024CCEE85",
+      "participant": "94785153782@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721218617,
+    "pushName": "Snowy",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=LS4hB8kdqyE",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "222D1773DC5AB7B1BA042EA194AC688C",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "LCnBKn6lYv5bB8menokcSQzbSLNs/2Ij+D252juNgOE=",
+                  "fileLength": "139432",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "M3QgOyCpRLvPyT758kssBHxJ4I4NUGXOf4vbSxTvvZI=",
+                  "fileEncSha256": "c6z3eTyRaXH/ImfbJXkm/VhrN8aKgltfUBJbf2Bn+uw=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721218540",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTMTJBIlEkNEJhkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECAwQRMUEhM1H/2gAMAwEAAhEDEQA/AGfGOFJBGOStwLkYLO8gIbpvj2yabH4njIZ9J5Sdsu422qUu47ua5glWFrhWTIi06TuNhmkYII7iXnm3aORzpOpSSMbHfp7mjS2+xdbS0SdvbJO0i6gsJYP6CUCkim44c7MjJe24y3pUuQT+961ZnUIgLLG+QWLDycAt9utYROS/MthEZJG0ZYBlGOm/5qd8+QuTSxkpv6Ws98VIX/yUo8aD/KKKlqfZJuTm0bM95bh2LAMBgnO1Wu07lX6RAcDx1oopGXlFZ7P/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Hinawata Adare Hithuna - ...\n├ *👤 `Author:`* C Music\n├ *👁️‍🗨️ `Views:`* 2020225\n├ *🕘 `Duration:`* 3:20\n├ *📌 `Ago:`* 4 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=LS4hB8kdqyE \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "AEC4D984F614B5396EDC65C024CCEE85",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94785153782@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=LS4hB8kdqyE",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "222D1773DC5AB7B1BA042EA194AC688C",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "LCnBKn6lYv5bB8menokcSQzbSLNs/2Ij+D252juNgOE=",
+                "fileLength": "139432",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "M3QgOyCpRLvPyT758kssBHxJ4I4NUGXOf4vbSxTvvZI=",
+                "fileEncSha256": "c6z3eTyRaXH/ImfbJXkm/VhrN8aKgltfUBJbf2Bn+uw=",
+                "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721218540",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTMTJBIlEkNEJhkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECAwQRMUEhM1H/2gAMAwEAAhEDEQA/AGfGOFJBGOStwLkYLO8gIbpvj2yabH4njIZ9J5Sdsu422qUu47ua5glWFrhWTIi06TuNhmkYII7iXnm3aORzpOpSSMbHfp7mjS2+xdbS0SdvbJO0i6gsJYP6CUCkim44c7MjJe24y3pUuQT+961ZnUIgLLG+QWLDycAt9utYROS/MthEZJG0ZYBlGOm/5qd8+QuTSxkpv6Ws98VIX/yUo8aD/KKKlqfZJuTm0bM95bh2LAMBgnO1Wu07lX6RAcDx1oopGXlFZ7P/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Hinawata Adare Hithuna - ...\n├ *👤 `Author:`* C Music\n├ *👁️‍🗨️ `Views:`* 2020225\n├ *🕘 `Duration:`* 3:20\n├ *📌 `Ago:`* 4 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=LS4hB8kdqyE \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=LS4hB8kdqyE",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "LCnBKn6lYv5bB8menokcSQzbSLNs/2Ij+D252juNgOE=",
+            "fileLength": "139432",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "M3QgOyCpRLvPyT758kssBHxJ4I4NUGXOf4vbSxTvvZI=",
+            "fileEncSha256": "c6z3eTyRaXH/ImfbJXkm/VhrN8aKgltfUBJbf2Bn+uw=",
+            "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-568bf984-1d4d-41e4-877c-befe7863f9f2?ccb=9-4&oh=01_Q5AaIPh_YGFalvPmKDC4WAkTKX4Byorq2UKVZ6hxyHWW3sau&oe=66BF3677&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721218540",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAMEBQYBAgf/xAApEAACAQMCBQIHAAAAAAAAAAABAgMABBESIQUTMTJBIlEkNEJhkaGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMC/8QAHhEAAwABBAMAAAAAAAAAAAAAAAECAwQRMUEhM1H/2gAMAwEAAhEDEQA/AGfGOFJBGOStwLkYLO8gIbpvj2yabH4njIZ9J5Sdsu422qUu47ua5glWFrhWTIi06TuNhmkYII7iXnm3aORzpOpSSMbHfp7mjS2+xdbS0SdvbJO0i6gsJYP6CUCkim44c7MjJe24y3pUuQT+961ZnUIgLLG+QWLDycAt9utYROS/MthEZJG0ZYBlGOm/5qd8+QuTSxkpv6Ws98VIX/yUo8aD/KKKlqfZJuTm0bM95bh2LAMBgnO1Wu07lX6RAcDx1oopGXlFZ7P/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Hinawata Adare Hithuna - ...\n├ *👤 `Author:`* C Music\n├ *👁️‍🗨️ `Views:`* 2020225\n├ *🕘 `Duration:`* 3:20\n├ *📌 `Ago:`* 4 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=LS4hB8kdqyE \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=LS4hB8kdqyE\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

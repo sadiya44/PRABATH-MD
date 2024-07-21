@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "B6939B42C9DFA23BDE9392A8BC7EC084",
+      "participant": "94764065862@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721220036,
+    "pushName": "Lahiru",
+    "broadcast": false,
+    "message": {
+      "conversation": ".Audio https://youtu.be/fMSFJqtG4lo?si=BV4p5--NDC1fxrTU",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjQluFzEAAaIPcc7FYkNd8p6nLbAPN3BOlMnmihyx/ghWU8vcCIvxPEIiEFuiHVrot4MIaS2Gjk4EBU2M1/R+fhAYWNA9z7xmMFaXg="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "B6939B42C9DFA23BDE9392A8BC7EC084",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764065862@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".Audio https://youtu.be/fMSFJqtG4lo?si=BV4p5--NDC1fxrTU",
+    "mentionUser": [],
+    "body": ".Audio https://youtu.be/fMSFJqtG4lo?si=BV4p5--NDC1fxrTU",
+    "quoted": null
+  }
+]

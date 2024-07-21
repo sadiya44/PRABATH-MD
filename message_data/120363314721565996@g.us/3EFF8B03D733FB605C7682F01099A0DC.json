@@ -1,0 +1,39 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "3EFF8B03D733FB605C7682F01099A0DC",
+      "participant": "94785153782@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721218535,
+    "pushName": "Snowy",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song hinawata adare hithuna",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwie47juARAAGiCtfG8Txw513eBNcOWOe5Z+FrVQWRqFKEvshLTY4HYz/SIhBUDzdqMXF2LiIf0AGmT4WBfVgKWV4DE3z6CdA91QJTEx"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720817210",
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Snowy",
+    "id": "3EFF8B03D733FB605C7682F01099A0DC",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94785153782@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song hinawata adare hithuna",
+    "mentionUser": [],
+    "body": ".song hinawata adare hithuna",
+    "quoted": null
+  }
+]

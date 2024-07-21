@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "BCBFA4E83127A08D8CB9FA987FEBDE70",
+      "participant": "94710513877@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721215898,
+    "pushName": "@__සංජුවා තමයි බං [🇱🇰] 🌿🪴",
+    "broadcast": false,
+    "message": {
+      "conversation": ".tiktok https://vm.tiktok.com/ZSYt85eq8/"
+    },
+    "id": "BCBFA4E83127A08D8CB9FA987FEBDE70",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94710513877@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".tiktok https://vm.tiktok.com/ZSYt85eq8/",
+    "mentionUser": [],
+    "body": ".tiktok https://vm.tiktok.com/ZSYt85eq8/",
+    "quoted": null
+  }
+]

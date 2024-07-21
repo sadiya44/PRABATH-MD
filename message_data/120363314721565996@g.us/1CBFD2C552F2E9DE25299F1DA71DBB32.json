@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "1CBFD2C552F2E9DE25299F1DA71DBB32",
+      "participant": "94764065862@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221291,
+    "pushName": "Lahiru",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=gYMmgr1p5bE",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "22C2E27C10ED497A1CB0BC5FFBCB4CC5",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "gSzSEMDTYyTvsVePREZD+ukNbw76niEEeLC5nMdo2IQ=",
+                  "fileLength": "193417",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "BcbjYoEa7yuxqeXTPri96Gh+imnxB/p6DxCmHHnmXqs=",
+                  "fileEncSha256": "ZzeqbGcb0e+wAQnuolc9VAFsU9Avte67vimDH5Y7rEo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721221288",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQREiEFMUJRBhNBYSMyNZGy0fD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESITEyQf/aAAwDAQACEQMRAD8AVTw8pw6C9Zy8cjlcDpx+96natG8gQakUgYrdu/DrQ+HreOKUvK06uV1ZChtsAfaoXNla27yWeZSkLkxANyJxSctVmQa5fBxS8KjlvRbxyhmZSdfTsP4VTFw0i0MuQsmcaDz9zWvaXUdmVkigZ5QoUu4zj027VnNyKAOserUy6tsD3O+d801bGTxEqNNj+jov0Qt1eUd/XlSfxPfjVznuPxFFFTf4FX2M8E0vkR/Ef5R1HtVkcshMuZGOAMZPKiiorND/2Q=="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Kiri Weherata Mal Neluwat...\n├ *👤 `Author:`* Ravindu Hettiarachchi\n├ *👁️‍🗨️ `Views:`* 886575\n├ *🕘 `Duration:`* 3:44\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=gYMmgr1p5bE \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "1CBFD2C552F2E9DE25299F1DA71DBB32",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764065862@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=gYMmgr1p5bE",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "22C2E27C10ED497A1CB0BC5FFBCB4CC5",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "gSzSEMDTYyTvsVePREZD+ukNbw76niEEeLC5nMdo2IQ=",
+                "fileLength": "193417",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "BcbjYoEa7yuxqeXTPri96Gh+imnxB/p6DxCmHHnmXqs=",
+                "fileEncSha256": "ZzeqbGcb0e+wAQnuolc9VAFsU9Avte67vimDH5Y7rEo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721221288",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQREiEFMUJRBhNBYSMyNZGy0fD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESITEyQf/aAAwDAQACEQMRAD8AVTw8pw6C9Zy8cjlcDpx+96natG8gQakUgYrdu/DrQ+HreOKUvK06uV1ZChtsAfaoXNla27yWeZSkLkxANyJxSctVmQa5fBxS8KjlvRbxyhmZSdfTsP4VTFw0i0MuQsmcaDz9zWvaXUdmVkigZ5QoUu4zj027VnNyKAOserUy6tsD3O+d801bGTxEqNNj+jov0Qt1eUd/XlSfxPfjVznuPxFFFTf4FX2M8E0vkR/Ef5R1HtVkcshMuZGOAMZPKiiorND/2Q=="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Kiri Weherata Mal Neluwat...\n├ *👤 `Author:`* Ravindu Hettiarachchi\n├ *👁️‍🗨️ `Views:`* 886575\n├ *🕘 `Duration:`* 3:44\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=gYMmgr1p5bE \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=gYMmgr1p5bE",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "gSzSEMDTYyTvsVePREZD+ukNbw76niEEeLC5nMdo2IQ=",
+            "fileLength": "193417",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "BcbjYoEa7yuxqeXTPri96Gh+imnxB/p6DxCmHHnmXqs=",
+            "fileEncSha256": "ZzeqbGcb0e+wAQnuolc9VAFsU9Avte67vimDH5Y7rEo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-6c8ce7fb-3deb-4d7f-bac0-de214638f65f?ccb=9-4&oh=01_Q5AaIIcMqKhgMQD4bpt7HeJG1282meLZhQUZBftIg3pDTELK&oe=66BF351C&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721221288",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwUE/8QAKhAAAgEDAgQEBwAAAAAAAAAAAQIDAAQREiEFMUJRBhNBYSMyNZGy0fD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESITEyQf/aAAwDAQACEQMRAD8AVTw8pw6C9Zy8cjlcDpx+96natG8gQakUgYrdu/DrQ+HreOKUvK06uV1ZChtsAfaoXNla27yWeZSkLkxANyJxSctVmQa5fBxS8KjlvRbxyhmZSdfTsP4VTFw0i0MuQsmcaDz9zWvaXUdmVkigZ5QoUu4zj027VnNyKAOserUy6tsD3O+d801bGTxEqNNj+jov0Qt1eUd/XlSfxPfjVznuPxFFFTf4FX2M8E0vkR/Ef5R1HtVkcshMuZGOAMZPKiiorND/2Q=="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Kiri Weherata Mal Neluwat...\n├ *👤 `Author:`* Ravindu Hettiarachchi\n├ *👁️‍🗨️ `Views:`* 886575\n├ *🕘 `Duration:`* 3:44\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=gYMmgr1p5bE \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=gYMmgr1p5bE\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

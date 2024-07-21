@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "91831CC6CB737C74A4E273D9A90E5FAC",
+      "participant": "94728719115@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721220800,
+    "pushName": "꧁༺Ninja༻꧂",
+    "broadcast": false,
+    "message": {
+      "conversation": "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ErKgVD8OnSlHAhElPouiTy",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwigvs6eBxAAGiDD55K+lxLp+VcFNlKNPqzhDr+TCa/vTda9nOJde2YCkCIhBbk6Yze4ctygpZeyaolNSxVmS73pXzoVDAd5Vf2RhHp0"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "91831CC6CB737C74A4E273D9A90E5FAC",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94728719115@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ErKgVD8OnSlHAhElPouiTy",
+    "mentionUser": [],
+    "body": "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/ErKgVD8OnSlHAhElPouiTy",
+    "quoted": null
+  }
+]

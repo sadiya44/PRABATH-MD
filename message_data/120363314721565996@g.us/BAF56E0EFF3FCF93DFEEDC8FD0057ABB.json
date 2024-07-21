@@ -1,0 +1,188 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "BAF56E0EFF3FCF93DFEEDC8FD0057ABB",
+      "participant": "94710513877@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721215904,
+    "pushName": "@__සංජුවා තමයි බං [🇱🇰] 🌿🪴",
+    "broadcast": false,
+    "message": {
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "WITH-WATERMARK",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".intiktokwwm https:\\/\\/vm.tiktok.com\\/ZSYt85eq8\\/\",\"description\":\" \"}"
+        },
+        "contextInfo": {
+          "stanzaId": "DD13C8365F5A7AC3DE1B1C356F53E7F6",
+          "participant": "94760789475@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "N+SgoxuvsMHpg9a+pIPWikNpinnhsEWbf8OasDkK6tQ=",
+                  "fileLength": "36102",
+                  "height": 400,
+                  "width": 300,
+                  "mediaKey": "UGaXK8gMXQw3J4VvpPJ2eMyKzN8tGXAWpBNiJ49yh/w=",
+                  "fileEncSha256": "z10o4xShqiLM1TJ3c81BAh9LbyIugotoQk6BrrKOl6s=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721215901",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAArACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwIEBQb/xAAhEAACAgICAgMBAAAAAAAAAAABAhEhAAMSMQQiE0FhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/APMP4O5bKBR+GcyOCh4sLFGxRzor5GzVBG8tUQ2ZNio7FixJJnM6AgECeJj+zluvGBMyJynXjpaLAHeK+kHU2z5UBQKOBNmspUT0MEx+1kBQNhJpTkbQq6zQrJV+CpJJVjBBsYSJW9wIVDyJ7AGHt2s7l2WJxPI4qoANzmd5LTjE18Vb0q6OGCnwBAQXH0bxn9XqBQxPH1JyJ42ReU6ax71Z9qiQDxm8MdkH6zonWoNDozg7kVdbEA9Ad4h//9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎟️ *PRABATH-MD TIKTOK DOWNLOADER* 🎟️\n\n*Title:* 😂අැට දෙක🍒😂#like #freefire #coment #ammoo_tharu_100k #funny \n*Profile_name:* ❤tik_tok_tharu_200k.❤\n*Country:*  LK\n\n┏━━━━━━━━━━━━━━━━━━━┓\n┣ 💬 *Comments:* 203\n┣ 🔀 *Share:* 409\n┣ 👀 *Views:* 117500\n┣ ⬇️ *Downloads:* 20\n┣ ⏱️ *Duration:* 28\n┗━━━━━━━━━━━━━━━━━━━┛\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "single_select",
+                    "buttonParamsJson": "{\"title\":\"TIKTOK-VIDEO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"WITH-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwwm https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"WITHOUT-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwm https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+                  },
+                  {
+                    "name": "single_select",
+                    "buttonParamsJson": "{\"title\":\"TIKTOK-AUDIO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"AUDIO\",\"description\":\" \",\"id\":\".intiktokvideo https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"DOCUMENT\",\"description\":\" \",\"id\":\".intiktokdoc https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760789475@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "BAF56E0EFF3FCF93DFEEDC8FD0057ABB",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94710513877@s.whatsapp.net",
+    "type": "interactiveResponseMessage",
+    "msg": {
+      "body": {
+        "text": "WITH-WATERMARK",
+        "format": "DEFAULT"
+      },
+      "nativeFlowResponseMessage": {
+        "name": "menu_options",
+        "paramsJson": "{\"id\":\".intiktokwwm https:\\/\\/vm.tiktok.com\\/ZSYt85eq8\\/\",\"description\":\" \"}"
+      },
+      "contextInfo": {
+        "stanzaId": "DD13C8365F5A7AC3DE1B1C356F53E7F6",
+        "participant": "94760789475@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "N+SgoxuvsMHpg9a+pIPWikNpinnhsEWbf8OasDkK6tQ=",
+                "fileLength": "36102",
+                "height": 400,
+                "width": 300,
+                "mediaKey": "UGaXK8gMXQw3J4VvpPJ2eMyKzN8tGXAWpBNiJ49yh/w=",
+                "fileEncSha256": "z10o4xShqiLM1TJ3c81BAh9LbyIugotoQk6BrrKOl6s=",
+                "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721215901",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAArACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwIEBQb/xAAhEAACAgICAgMBAAAAAAAAAAABAhEhAAMSMQQiE0FhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/APMP4O5bKBR+GcyOCh4sLFGxRzor5GzVBG8tUQ2ZNio7FixJJnM6AgECeJj+zluvGBMyJynXjpaLAHeK+kHU2z5UBQKOBNmspUT0MEx+1kBQNhJpTkbQq6zQrJV+CpJJVjBBsYSJW9wIVDyJ7AGHt2s7l2WJxPI4qoANzmd5LTjE18Vb0q6OGCnwBAQXH0bxn9XqBQxPH1JyJ42ReU6ax71Z9qiQDxm8MdkH6zonWoNDozg7kVdbEA9Ad4h//9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎟️ *PRABATH-MD TIKTOK DOWNLOADER* 🎟️\n\n*Title:* 😂අැට දෙක🍒😂#like #freefire #coment #ammoo_tharu_100k #funny \n*Profile_name:* ❤tik_tok_tharu_200k.❤\n*Country:*  LK\n\n┏━━━━━━━━━━━━━━━━━━━┓\n┣ 💬 *Comments:* 203\n┣ 🔀 *Share:* 409\n┣ 👀 *Views:* 117500\n┣ ⬇️ *Downloads:* 20\n┣ ⏱️ *Duration:* 28\n┗━━━━━━━━━━━━━━━━━━━┛\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"TIKTOK-VIDEO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"WITH-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwwm https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"WITHOUT-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwm https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"TIKTOK-AUDIO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"AUDIO\",\"description\":\" \",\"id\":\".intiktokvideo https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"DOCUMENT\",\"description\":\" \",\"id\":\".intiktokdoc https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760789475@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94760789475@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "N+SgoxuvsMHpg9a+pIPWikNpinnhsEWbf8OasDkK6tQ=",
+            "fileLength": "36102",
+            "height": 400,
+            "width": 300,
+            "mediaKey": "UGaXK8gMXQw3J4VvpPJ2eMyKzN8tGXAWpBNiJ49yh/w=",
+            "fileEncSha256": "z10o4xShqiLM1TJ3c81BAh9LbyIugotoQk6BrrKOl6s=",
+            "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-f9b50f77-c3be-403e-95e3-939f5173a3c0?ccb=9-4&oh=01_Q5AaIMZBkTetnXWRsLGGh1TgG1lQhW_aFyVDzhL4uaDZ24Kk&oe=66BF159D&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721215901",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAArACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwIEBQb/xAAhEAACAgICAgMBAAAAAAAAAAABAhEhAAMSMQQiE0FhUf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/APMP4O5bKBR+GcyOCh4sLFGxRzor5GzVBG8tUQ2ZNio7FixJJnM6AgECeJj+zluvGBMyJynXjpaLAHeK+kHU2z5UBQKOBNmspUT0MEx+1kBQNhJpTkbQq6zQrJV+CpJJVjBBsYSJW9wIVDyJ7AGHt2s7l2WJxPI4qoANzmd5LTjE18Vb0q6OGCnwBAQXH0bxn9XqBQxPH1JyJ42ReU6ax71Z9qiQDxm8MdkH6zonWoNDozg7kVdbEA9Ad4h//9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎟️ *PRABATH-MD TIKTOK DOWNLOADER* 🎟️\n\n*Title:* 😂අැට දෙක🍒😂#like #freefire #coment #ammoo_tharu_100k #funny \n*Profile_name:* ❤tik_tok_tharu_200k.❤\n*Country:*  LK\n\n┏━━━━━━━━━━━━━━━━━━━┓\n┣ 💬 *Comments:* 203\n┣ 🔀 *Share:* 409\n┣ 👀 *Views:* 117500\n┣ ⬇️ *Downloads:* 20\n┣ ⏱️ *Duration:* 28\n┗━━━━━━━━━━━━━━━━━━━┛\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"TIKTOK-VIDEO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"WITH-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwwm https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"WITHOUT-WATERMARK\",\"description\":\" \",\"id\":\".intiktokwm https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"TIKTOK-AUDIO\",\"sections\":[{\"title\":\" \",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"AUDIO\",\"description\":\" \",\"id\":\".intiktokvideo https://vm.tiktok.com/ZSYt85eq8/\"},{\"header\":\"\",\"title\":\"DOCUMENT\",\"description\":\" \",\"id\":\".intiktokdoc https://vm.tiktok.com/ZSYt85eq8/\"}]}]}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

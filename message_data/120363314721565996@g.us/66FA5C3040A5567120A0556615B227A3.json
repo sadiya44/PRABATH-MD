@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "66FA5C3040A5567120A0556615B227A3",
+      "participant": "94779697328@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721219825,
+    "pushName": "@⁨DΛ ZI YΛ",
+    "broadcast": false,
+    "message": {
+      "conversation": ".apk buly",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjB0K6NAhAAGiDNjaOU6OIEja9lqKigLabrc+vbrfK83aLinp1yL023siIhBdeRUokkABHqD7pHm9h47xTZbeKcFbCM9hDbpqcKhMYt"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "66FA5C3040A5567120A0556615B227A3",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94779697328@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".apk buly",
+    "mentionUser": [],
+    "body": ".apk buly",
+    "quoted": null
+  }
+]

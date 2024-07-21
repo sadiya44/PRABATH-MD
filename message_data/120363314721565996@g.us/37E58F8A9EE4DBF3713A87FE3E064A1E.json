@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "37E58F8A9EE4DBF3713A87FE3E064A1E",
+      "participant": "94764065862@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221283,
+    "pushName": "Lahiru",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song kiri weherata mal piduwata"
+    },
+    "id": "37E58F8A9EE4DBF3713A87FE3E064A1E",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764065862@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song kiri weherata mal piduwata",
+    "mentionUser": [],
+    "body": ".song kiri weherata mal piduwata",
+    "quoted": null
+  }
+]

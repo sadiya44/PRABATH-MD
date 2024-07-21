@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "864BDEF30AAA02968651C5B5CA2D7376",
+      "participant": "94764065862@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221257,
+    "pushName": "Lahiru",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=CNOCXPMeMoY",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "B8178CDFD51AE5B6CF03DF00F8E17684",
+          "participant": "94742195461@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "XzMtALdh7KHs8qaTRajA+u8fFBCytq8T2IhKAK6UycU=",
+                  "fileLength": "15543",
+                  "height": 360,
+                  "width": 480,
+                  "mediaKey": "zFukSUetB22i6bZNXHqQjDf3Kc1ayj4o0Vczx/ww67I=",
+                  "fileEncSha256": "oZ/egiK1kTXUwng+OBHEFGSRSRZ5XYi3f4XlwPb/4D0=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721221252",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGA//EACkQAAEEAQMCBAcAAAAAAAAAAAECAwQRAAUSIQZBExQxsRZRVHGBodH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAbEQADAQEAAwAAAAAAAAAAAAAAARESAiFBQv/aAAwDAQACEQMRAD8AjnpTRQSDMf3XVbhftjfhbQ/rX/yofzNMXm30lADos1aQR+8bG2IXSS+oqrlzmsN8GVc9mC1jTtPiSjGhCTIWkAqVuFC+1AfbJuh6Bp2qIcQ8ZTMhqtyLHofQ8jLtOlSG5Et+NJQhTr53EpsgfLJGlQnmZ7sh2T4u4FKQRRCbBGHQ+k1xSrV1lBKjXmwk3xsTxx25xW+s4KEBNSjXcoST74YY8osoroXVDLOpTZSw8BIKaSkDt3POcp3UviykSYy30OITtSSB6XZwwyitF85P/9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Nuwara wewata - Namal Udu...\n├ *👤 `Author:`* Namal Udugama\n├ *👁️‍🗨️ `Views:`* 20118\n├ *🕘 `Duration:`* 4:10\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=CNOCXPMeMoY \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94742195461@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "864BDEF30AAA02968651C5B5CA2D7376",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764065862@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=CNOCXPMeMoY",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "B8178CDFD51AE5B6CF03DF00F8E17684",
+        "participant": "94742195461@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "XzMtALdh7KHs8qaTRajA+u8fFBCytq8T2IhKAK6UycU=",
+                "fileLength": "15543",
+                "height": 360,
+                "width": 480,
+                "mediaKey": "zFukSUetB22i6bZNXHqQjDf3Kc1ayj4o0Vczx/ww67I=",
+                "fileEncSha256": "oZ/egiK1kTXUwng+OBHEFGSRSRZ5XYi3f4XlwPb/4D0=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721221252",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGA//EACkQAAEEAQMCBAcAAAAAAAAAAAECAwQRAAUSIQZBExQxsRZRVHGBodH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAbEQADAQEAAwAAAAAAAAAAAAAAARESAiFBQv/aAAwDAQACEQMRAD8AjnpTRQSDMf3XVbhftjfhbQ/rX/yofzNMXm30lADos1aQR+8bG2IXSS+oqrlzmsN8GVc9mC1jTtPiSjGhCTIWkAqVuFC+1AfbJuh6Bp2qIcQ8ZTMhqtyLHofQ8jLtOlSG5Et+NJQhTr53EpsgfLJGlQnmZ7sh2T4u4FKQRRCbBGHQ+k1xSrV1lBKjXmwk3xsTxx25xW+s4KEBNSjXcoST74YY8osoroXVDLOpTZSw8BIKaSkDt3POcp3UviykSYy30OITtSSB6XZwwyitF85P/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Nuwara wewata - Namal Udu...\n├ *👤 `Author:`* Namal Udugama\n├ *👁️‍🗨️ `Views:`* 20118\n├ *🕘 `Duration:`* 4:10\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=CNOCXPMeMoY \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94742195461@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94742195461@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=CNOCXPMeMoY",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "XzMtALdh7KHs8qaTRajA+u8fFBCytq8T2IhKAK6UycU=",
+            "fileLength": "15543",
+            "height": 360,
+            "width": 480,
+            "mediaKey": "zFukSUetB22i6bZNXHqQjDf3Kc1ayj4o0Vczx/ww67I=",
+            "fileEncSha256": "oZ/egiK1kTXUwng+OBHEFGSRSRZ5XYi3f4XlwPb/4D0=",
+            "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-864f5676-ccde-4919-ac9c-166c4a929b54?ccb=9-4&oh=01_Q5AaINPAinSUQ-Ejw6niaVEZzRw11IGu7Ox-uK1VU7tUVpC7&oe=66BF33EE&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721221252",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGA//EACkQAAEEAQMCBAcAAAAAAAAAAAECAwQRAAUSIQZBExQxsRZRVHGBodH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAbEQADAQEAAwAAAAAAAAAAAAAAARESAiFBQv/aAAwDAQACEQMRAD8AjnpTRQSDMf3XVbhftjfhbQ/rX/yofzNMXm30lADos1aQR+8bG2IXSS+oqrlzmsN8GVc9mC1jTtPiSjGhCTIWkAqVuFC+1AfbJuh6Bp2qIcQ8ZTMhqtyLHofQ8jLtOlSG5Et+NJQhTr53EpsgfLJGlQnmZ7sh2T4u4FKQRRCbBGHQ+k1xSrV1lBKjXmwk3xsTxx25xW+s4KEBNSjXcoST74YY8osoroXVDLOpTZSw8BIKaSkDt3POcp3UviykSYy30OITtSSB6XZwwyitF85P/9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Nuwara wewata - Namal Udu...\n├ *👤 `Author:`* Namal Udugama\n├ *👁️‍🗨️ `Views:`* 20118\n├ *🕘 `Duration:`* 4:10\n├ *📌 `Ago:`* 3 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=CNOCXPMeMoY \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=CNOCXPMeMoY\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

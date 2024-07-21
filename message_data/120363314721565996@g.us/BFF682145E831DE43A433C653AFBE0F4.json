@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "BFF682145E831DE43A433C653AFBE0F4",
+      "participant": "94779697328@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721219840,
+    "pushName": "@⁨DΛ ZI YΛ",
+    "broadcast": false,
+    "message": {
+      "conversation": ".apk bully game"
+    },
+    "id": "BFF682145E831DE43A433C653AFBE0F4",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94779697328@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".apk bully game",
+    "mentionUser": [],
+    "body": ".apk bully game",
+    "quoted": null
+  }
+]

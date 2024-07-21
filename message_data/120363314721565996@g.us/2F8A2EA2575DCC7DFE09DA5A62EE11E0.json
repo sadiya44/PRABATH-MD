@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "2F8A2EA2575DCC7DFE09DA5A62EE11E0",
+      "participant": "94764065862@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721221247,
+    "pushName": "Lahiru",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song hanthane sulan rallakin",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjvvPy/AhAAGiDdXgK7qzFlEvAAZ8UF7zFOPtnxJcSONwlOtpRwi7tuKiIhBRBPFsPyxxqHYhe4/PyaRvI5D/9Ud1TxdVqQMMRnDg8X"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "2F8A2EA2575DCC7DFE09DA5A62EE11E0",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764065862@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song hanthane sulan rallakin",
+    "mentionUser": [],
+    "body": ".song hanthane sulan rallakin",
+    "quoted": null
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "AC45C53623C3097E9F13E97D22124052",
+      "participant": "94785153782@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721217502,
+    "pushName": "Snowy",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjKt7+tBBAEGiB0t5Cn05z5BgJomUDwqeNbTrCb3vQ7ZHB7nDxROOVnESIhBfzcAWqzLnNxCHU58H198rVp5jZDOWqH9sLMANnGtkZa"
+      },
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=rCq2xWJeFWs",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "941D579D44A52C32B6BB9BDD179BBD67",
+          "participant": "94760789475@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "3v0MGHmEiu6Lljp9/ge8k1d1ZPcqKUZVepPvdma/I1E=",
+                  "fileLength": "25262",
+                  "height": 360,
+                  "width": 480,
+                  "mediaKey": "CSuYJiKtAFi3rVzBK6GzstONljEwgPi4ws+R+VvaB+A=",
+                  "fileEncSha256": "ksawZKn2w1h/pGvNSJUQVxhpSXcK1xI/BPcvJyXweyo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721190488",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAgEDAgUBCQAAAAAAAAAAAQIDAAQRBRIGEzFR0XEHFCEiQVNygcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERQh8CJBUZGh/9oADAMBAAIRAxEAPwBQOF4c43yt+JFDcLxIMnn7e4I8VrRybbYDHK+77cZbHripy3Fq6bGguSp6n3d/FZlvz2jPUAT1c9TDSaBEqttZyw7kD+UsmsTGejVtrkQgAoBEhYKvOV1JY+tJNRwud239UotUwxW+N+fJyt+MtQgxiOFsdwfNW39oGoPHtNrbg9xu80UVGmq8SjYxOSYi1PWJ9TmMkyqPgPlBOAR9aqG6lKBS2QOlFFKEUDAEkuxOZ//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* තනියම රෑට අහන්න. ආස අයට ප...\n├ *👤 `Author:`* Madhushan Bandara\n├ *👁️‍🗨️ `Views:`* 89\n├ *🕘 `Duration:`* 24:25\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=rCq2xWJeFWs \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760789475@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720817210",
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Snowy",
+    "id": "AC45C53623C3097E9F13E97D22124052",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94785153782@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=rCq2xWJeFWs",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "941D579D44A52C32B6BB9BDD179BBD67",
+        "participant": "94760789475@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "3v0MGHmEiu6Lljp9/ge8k1d1ZPcqKUZVepPvdma/I1E=",
+                "fileLength": "25262",
+                "height": 360,
+                "width": 480,
+                "mediaKey": "CSuYJiKtAFi3rVzBK6GzstONljEwgPi4ws+R+VvaB+A=",
+                "fileEncSha256": "ksawZKn2w1h/pGvNSJUQVxhpSXcK1xI/BPcvJyXweyo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721190488",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAgEDAgUBCQAAAAAAAAAAAQIDAAQRBRIGEzFR0XEHFCEiQVNygcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERQh8CJBUZGh/9oADAMBAAIRAxEAPwBQOF4c43yt+JFDcLxIMnn7e4I8VrRybbYDHK+77cZbHripy3Fq6bGguSp6n3d/FZlvz2jPUAT1c9TDSaBEqttZyw7kD+UsmsTGejVtrkQgAoBEhYKvOV1JY+tJNRwud239UotUwxW+N+fJyt+MtQgxiOFsdwfNW39oGoPHtNrbg9xu80UVGmq8SjYxOSYi1PWJ9TmMkyqPgPlBOAR9aqG6lKBS2QOlFFKEUDAEkuxOZ//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* තනියම රෑට අහන්න. ආස අයට ප...\n├ *👤 `Author:`* Madhushan Bandara\n├ *👁️‍🗨️ `Views:`* 89\n├ *🕘 `Duration:`* 24:25\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=rCq2xWJeFWs \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760789475@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760789475@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=rCq2xWJeFWs",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "3v0MGHmEiu6Lljp9/ge8k1d1ZPcqKUZVepPvdma/I1E=",
+            "fileLength": "25262",
+            "height": 360,
+            "width": 480,
+            "mediaKey": "CSuYJiKtAFi3rVzBK6GzstONljEwgPi4ws+R+VvaB+A=",
+            "fileEncSha256": "ksawZKn2w1h/pGvNSJUQVxhpSXcK1xI/BPcvJyXweyo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-bfc3d442-6476-4daf-977e-b7497971afa9?ccb=9-4&oh=01_Q5AaIPWsPIZLRTCnTms0iJxuU4Z7HfZ6iLDnFlMM2rMGpW8D&oe=66BECE04&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721190488",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCBAYD/8QAKhAAAgEDAgUBCQAAAAAAAAAAAQIDAAQRBRIGEzFR0XEHFCEiQVNygcH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADERQh8CJBUZGh/9oADAMBAAIRAxEAPwBQOF4c43yt+JFDcLxIMnn7e4I8VrRybbYDHK+77cZbHripy3Fq6bGguSp6n3d/FZlvz2jPUAT1c9TDSaBEqttZyw7kD+UsmsTGejVtrkQgAoBEhYKvOV1JY+tJNRwud239UotUwxW+N+fJyt+MtQgxiOFsdwfNW39oGoPHtNrbg9xu80UVGmq8SjYxOSYi1PWJ9TmMkyqPgPlBOAR9aqG6lKBS2QOlFFKEUDAEkuxOZ//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* තනියම රෑට අහන්න. ආස අයට ප...\n├ *👤 `Author:`* Madhushan Bandara\n├ *👁️‍🗨️ `Views:`* 89\n├ *🕘 `Duration:`* 24:25\n├ *📌 `Ago:`* 3 weeks ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=rCq2xWJeFWs \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=rCq2xWJeFWs\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363314721565996@g.us",
+      "fromMe": false,
+      "id": "74A92B65E1F7D44A045AC373953AF2C3",
+      "participant": "94770361369@s.whatsapp.net"
+    },
+    "messageTimestamp": 1721216340,
+    "pushName": "👉 🥺❤‍🩹🙂 👈",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363314721565996@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi96+iAAxABGiDAkyRPwOYQiQOfvNS5bB0Ezv0JA6YAimOEl8xYwPURCSIhBXM/EK289kIBQQb9pQ35AkLDGKif5Fcs2JdIOcNPdOV9"
+      },
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=qwQdMXqy9wM",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "2115B9BE45C28C877BD351004A07A3BB",
+          "participant": "94760789475@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "7gueOjMiPUz7DWAaLjreOgt9FvBZlEIEO9myPd2Wp1A=",
+                  "fileLength": "119495",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "oYJlctucN7DdOzExcxHpJNzpsR+GiGREzZuIQNtFIYM=",
+                  "fileEncSha256": "V9btLs7+H7EyqoRtHELccGCAmVhsWBxtt1gg3ETDSvo=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1721216335",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYB/8QAJhAAAgEEAQMDBQAAAAAAAAAAAQIDAAQFESESIjFBcYETFDJRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAAIDAAAAAAAAAAAAAAAAAQIRIRIxMv/aAAwDAQACEQMRAD8A7gbezjmuZTKkvVoKdbIX12Per1vnrNJrhJo36ITtSqa7eBzWNxGU+xnV2AdCQHUjexTG9mssncXM6tLH9UAKPA2Na2P1U7icbGiqyPznonMjDQV5VEXbsBeOocfJ+aTX11I8khiyMihmICkHR9qghkjjsore5kUtDIWDKdAg8a5prk8viI4Sba3QSEcHp/L+UnGV5Q232zDn0FS9bKjgMQNjgGiitBMlLFk7iTsDyaqsSfJPFFFAJ//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Mihiran, @DILUBeats, @Ram...\n├ *👤 `Author:`* Mihiran\n├ *👁️‍🗨️ `Views:`* 403197\n├ *🕘 `Duration:`* 3:54\n├ *📌 `Ago:`* 10 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=qwQdMXqy9wM \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760789475@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "s4A9dkK8P8F+3g==",
+          "recipientTimestamp": "1721043412"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "74A92B65E1F7D44A045AC373953AF2C3",
+    "chat": "120363314721565996@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94770361369@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=qwQdMXqy9wM",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "2115B9BE45C28C877BD351004A07A3BB",
+        "participant": "94760789475@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "7gueOjMiPUz7DWAaLjreOgt9FvBZlEIEO9myPd2Wp1A=",
+                "fileLength": "119495",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "oYJlctucN7DdOzExcxHpJNzpsR+GiGREzZuIQNtFIYM=",
+                "fileEncSha256": "V9btLs7+H7EyqoRtHELccGCAmVhsWBxtt1gg3ETDSvo=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000",
+                "mediaKeyTimestamp": "1721216335",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYB/8QAJhAAAgEEAQMDBQAAAAAAAAAAAQIDAAQFESESIjFBcYETFDJRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAAIDAAAAAAAAAAAAAAAAAQIRIRIxMv/aAAwDAQACEQMRAD8A7gbezjmuZTKkvVoKdbIX12Per1vnrNJrhJo36ITtSqa7eBzWNxGU+xnV2AdCQHUjexTG9mssncXM6tLH9UAKPA2Na2P1U7icbGiqyPznonMjDQV5VEXbsBeOocfJ+aTX11I8khiyMihmICkHR9qghkjjsore5kUtDIWDKdAg8a5prk8viI4Sba3QSEcHp/L+UnGV5Q232zDn0FS9bKjgMQNjgGiitBMlLFk7iTsDyaqsSfJPFFFAJ//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Mihiran, @DILUBeats, @Ram...\n├ *👤 `Author:`* Mihiran\n├ *👁️‍🗨️ `Views:`* 403197\n├ *🕘 `Duration:`* 3:54\n├ *📌 `Ago:`* 10 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=qwQdMXqy9wM \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760789475@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760789475@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=qwQdMXqy9wM",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "7gueOjMiPUz7DWAaLjreOgt9FvBZlEIEO9myPd2Wp1A=",
+            "fileLength": "119495",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "oYJlctucN7DdOzExcxHpJNzpsR+GiGREzZuIQNtFIYM=",
+            "fileEncSha256": "V9btLs7+H7EyqoRtHELccGCAmVhsWBxtt1gg3ETDSvo=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-bfc3ab8a-0b89-4399-85ec-c8db05642d74?ccb=9-4&oh=01_Q5AaIDPdGXEH6awK0WncfFCou5Bz8nhPezY4MqT2MUfryoBY&oe=66BF0A4C&_nc_sid=000000",
+            "mediaKeyTimestamp": "1721216335",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYB/8QAJhAAAgEEAQMDBQAAAAAAAAAAAQIDAAQFESESIjFBcYETFDJRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQADAAIDAAAAAAAAAAAAAAAAAQIRIRIxMv/aAAwDAQACEQMRAD8A7gbezjmuZTKkvVoKdbIX12Per1vnrNJrhJo36ITtSqa7eBzWNxGU+xnV2AdCQHUjexTG9mssncXM6tLH9UAKPA2Na2P1U7icbGiqyPznonMjDQV5VEXbsBeOocfJ+aTX11I8khiyMihmICkHR9qghkjjsore5kUtDIWDKdAg8a5prk8viI4Sba3QSEcHp/L+UnGV5Q232zDn0FS9bKjgMQNjgGiitBMlLFk7iTsDyaqsSfJPFFFAJ//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Mihiran, @DILUBeats, @Ram...\n├ *👤 `Author:`* Mihiran\n├ *👁️‍🗨️ `Views:`* 403197\n├ *🕘 `Duration:`* 3:54\n├ *📌 `Ago:`* 10 days ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=qwQdMXqy9wM \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Follow Channel\",\"url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\",\"merchant_url\":\"https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=qwQdMXqy9wM\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]
